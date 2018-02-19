@@ -10,7 +10,7 @@ Author URI:
 
 require 'plugin-update-checker-4.4/plugin-update-checker.php';
 $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
-	'https://drive.google.com/file/d/19AAXOc8QO7DD5JHxgAp-o9P818KrSL2O/view?usp=sharing',
+	'https://raw.githubusercontent.com/Hiepler/wp_admin_extension/master/plugin.json',
 	__FILE__,
 	'unique-plugin-or-theme-slug'
 );

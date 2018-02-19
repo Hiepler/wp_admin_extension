@@ -1,7 +1,7 @@
 {
 	"name": "kk admin extension",
 	"version": "1.0",
-	"download_url": "https://files.kranki.net/index.php/s/BBa2PzREXLRTMgn/download",
+	"download_url": "https://github.com/Hiepler/wp_admin_extension/raw/master/kk_admin_extension.zip",
 
 	"homepage": "http://krankikom.de/",
 	"requires": "4.5",

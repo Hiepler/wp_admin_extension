@@ -13,10 +13,10 @@
 	"author_homepage": "http://krankikom.de/",
 
 	"sections": {
-		"description": "(Required) Plugin description. Basic HTML can be used in all sections.",
-		"installation": "(Recommended) Installation instructions.",
-		"changelog": "(Recommended) Changelog. <p>This section will be displayed by default when the user clicks 'View version x.y.z details'.</p>",
-		"custom_section": "This is a custom section labeled 'Custom Section'."
+		"description": "Erweiterung Portfolio - 'Mitarbeiter' und 'Unternehmen' ",
+		"installation": "Einfach aktivieren",
+		"changelog": "<p>Custom PostType for Mitarbeiter and Unternehmen</p>",
+		"custom_section": "KK"
 	},
 	
 	"icons" : {
@@ -44,9 +44,9 @@
 		}
 	],
 
-	"rating": 90,
-	"num_ratings": 123,
+	"rating": 100,
+	"num_ratings": 1,
 
-	"downloaded": 1234,
-	"active_installs": 12345
+	"downloaded": 2,
+	"active_installs": 2
 }

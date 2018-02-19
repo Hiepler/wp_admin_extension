@@ -12,7 +12,7 @@ require 'plugin-update-checker-4.4/plugin-update-checker.php';
 $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
 	'https://raw.githubusercontent.com/Hiepler/wp_admin_extension/master/plugin.json',
 	__FILE__,
-	'unique-plugin-or-theme-slug'
+	'kk_admin_extension'
 );
 
 //* Register Projects Post Type

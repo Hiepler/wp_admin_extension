@@ -1,6 +1,6 @@
 {
 	"name": "kk admin extension",
-	"version": "1.1",
+	"version": "1.2",
 	"download_url": "https://github.com/Hiepler/wp_admin_extension/raw/master/kk_admin_extension.zip",
 
 	"homepage": "http://krankikom.de/",
@@ -15,7 +15,7 @@
 	"sections": {
 		"description": "Erweiterung Portfolio - 'Mitarbeiter' und 'Unternehmen' ",
 		"installation": "Einfach aktivieren",
-		"changelog": "<p>Custom PostType for Mitarbeiter and Unternehmen</p>",
+		"changelog": "<h1>v1.2</h1><p>Fix for WP-4.9.4</p>",
 		"custom_section": "KK"
 	},
 	

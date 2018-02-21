@@ -43,7 +43,7 @@ function add_company() {
        'has_archive' => true,
        // 'show_ui'     => false,
        'rewrite'     => array(
-        //    'slug' => 'portfolio-items',
+           'slug' => 'portfolio-items',
        ),
        'supports'    => array( 'title', 'editor','thumbnail', 'comments', 'revisions',),
        'can_export'  => true,

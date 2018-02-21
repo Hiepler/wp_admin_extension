@@ -3,7 +3,7 @@
 Plugin Name: kk admin extension
 Plugin URI: www.krankikom.de
 Description: Erweiterung - "Mitarbeiter" und "Unternehmen"
-Version: 1.0
+Version: 1.3
 Author: Benedikt Hiepler
 Author URI: 
 */
@@ -80,7 +80,6 @@ function add_worker() {
        'has_archive' => true,
        'show_in_menu' => true,
        'publicly_queryable' => true,
-       'taxonomies' => array('post_tag'),
        'show_ui'     => true,
        'rewrite'     => array(
         //    'slug' => 'portfolio-item',
